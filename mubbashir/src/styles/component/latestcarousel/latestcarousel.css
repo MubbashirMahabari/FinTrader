@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+.latestcarousel-box {
+    padding: 0 68px;
+    background-color: #f8f8f8;
+}
+
+.latestcarousel-img {
+    width: 100%;
+    height: 100%;
+}
+
+.latestcarousel-img img {
+    display: flex;
+    justify-content: center;
+}
+
+.latestcarousel-container {
+    padding-top: 60px;
+}
+
+.latestcarousel-heading{
+    padding-top: 60px;
+}
+.latestcarousel-heading,.latest-article-link{
+    text-align: center;
+}
+
+.latestcarousel-heading p{
+    font-size: 22px;
+    color: #ff4521;
+    font-weight: 600;
+    font-family: Source Sans Pro;
+}
+
+
+
+.latestcarousel-article-link a{
+
+    text-decoration: none;
+}
+.latestcarousel-article-link a p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    color: #4cb1ff;
+    font-weight: 600;
+    font-family: Source Sans Pro;
+}
+
+.latestcarousel-grid-box{
+    margin: 40px 0;
+}
+
+.latestcarousel-content{
+    padding: 0 20px;
+}
+
+.date-time-box p{
+    color: #ff4521;
+}
+
+
+.latestcarousel-content-heading{
+    margin-top: 10px;
+}
+
+.latestcarousel-content-heading p{
+    font-size: 1.125rem!important;
+    color: #262626;
+    font-weight: 600;
+    font-family: Source Sans Pro;
+}
+
+.latestcarousel-content-subhead{
+    margin-top: 10px;
+}
+
+.latestcarousel-content-subhead p{
+    font-size: 16px;
+    color: #262626;
+    font-weight: 500;
+    font-family: Source Sans Pro,sans-serif;
+}
+
+
+.tags-box{
+    margin-top: 20px;
+    color: #4cb1ff;
+}

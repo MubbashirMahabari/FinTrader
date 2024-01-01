@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+.forex-market {
+    background: url('/static/forex-market.jpg');
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+
+    @media (max-width: 900px) {
+        height: 100%;
+        min-height: 504px;
+
+    }
+}
+
+@media (max-width: 600px) {
+    .forex-market {
+        height: 100%;
+        min-height: 288px;
+    }
+}
+
+
+.forex-market-trading {
+    background: url('/static/trading.jpg');
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+
+    @media (max-width: 900px) {
+        height: 100%;
+        min-height: 504px;
+
+    }
+}
+
+
+@media (max-width: 600px) {
+    .forex-market-trading {
+        height: 100%;
+        min-height: 288px;
+    }
+}
+
+
+
+.forex-data-align {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    align-self: center;
+}
+
+@media (max-width: 600px) {
+    .forex-data-align {
+        margin-top: 0;
+        margin-bottom: 0;
+        align-self: center;
+    }
+}
+
+.forex-data {
+    width: 62%;
+    margin: auto;
+}
+
+@media (max-width: 600px) {
+    .forex-data {
+        width: 92%;
+        /* margin: auto; */
+        margin: 0 30px;
+        padding: 50px 0;
+    }
+}
+
+
+.forex-heading p {
+    font-family: 'Source Sans Pro';
+    color: #000000;
+    font-size: 2.5rem;
+    font-weight: 500;
+
+
+}
+
+@media (max-width: 600px) {
+    .forex-heading p {
+        text-align: center;
+        font-family: Source Sans Pro;
+        color: #000000;
+        font-size: 30px;
+        font-weight: 500;
+
+    }
+}
+
+.forex-content {
+    margin: 0 0 16px;
+    letter-spacing: -0.0533em;
+}
+
+.forex-content p {
+  
+    font-family: Source Sans Pro;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+@media (max-width: 600px) {
+    .forex-content {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+@media (max-width: 600px) {
+    .forex-content p {
+
+        font-family: Source Sans Pro;
+        color: #000000;
+        font-size: 16px;
+        font-weight: 500;
+    }
+}
+
+.forex-data-align,
+.css-wd28pw-MuiGrid-root>.MuiGrid-item {
+    padding-left: 0;
+}

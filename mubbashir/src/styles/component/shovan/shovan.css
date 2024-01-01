@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+.shovan-box {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.shovan-heading {
+    margin-bottom: 15px;
+}
+
+.shovan-heading p {
+    line-height: 1.2;
+    text-align: center;
+    font-weight: 500;
+    font-size: 2.125rem;
+    font-family: Source Sans Pro;
+    color: #000000;
+}
+
+@media (max-width: 600px) {
+
+    .shovan-heading p {
+        text-align: center;
+        font-size: 22px;
+        font-family: Source Sans Pro;
+        color: #000000;
+    }
+}
+
+.shovan-content {
+
+    width: 100%;
+    text-align: center;
+   
+
+}
+
+.shovan-content p {
+    margin: auto auto 0;
+    font-family: Source Sans Pro;
+    padding-bottom: 15px;
+    line-height: 1.2;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #000000;
+}
+
+@media (max-width: 600px) {
+
+    .shovan-content {
+        margin: auto auto 0;
+        width: 80%;
+    }
+}

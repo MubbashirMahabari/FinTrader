@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "img": "/static/momentum.webp",
+        "date": "22 May",
+        "time": "12:35",
+        "heading": " Jap 225 bearish momentum to persist?",
+        "subhead": "The Jap225 could be gearing up for further downside on the H4 timeframe. A strong breakdown below the critical support at 30392 could drag prices lower in the short to medium term.",
+        "tag1": "JAP 225",
+        "tag2": "STOCKS",
+        "tag3": "Momentum",
+        "tag4": " SMA",
+        "tag5": "JAP 225",
+        "lastimg":"/static/book.svg"
+    },
+    {
+        "id": 2,
+        "img": "/static/bears.webp",
+        "date": "22 May",
+        "time": "12:56",
+        "heading": "Nasdaq bears making a comeback?",
+        "subhead": "The Nasdaq 100 is under fresh selling pressure as mixed earnings results and renewed concerns about the banking industry weigh on investor sentiment.",
+        "tag1": "NASDAQ 100",
+        "tag2": "EARNINGS",
+        "tag3": "STOCKS",
+        "tag4": " MACD",
+        "tag5": "SMA",
+        "lastimg":"/static/book.svg"
+    },
+    {
+        "id": 3,
+        "img": "/static/gold.webp",
+        "date": "19 Apr",
+        "time": "12:56",
+        "heading": "Gold bears are making up for lost time",
+        "subhead": "Gold slips back below the psychological $2000 level, pressured by a stronger dollar as investors evaluate the prospects of the Federal Reserve.",
+        "tag1": "GOLD",
+        "tag2": "SMA",
+        "tag3": "Momentum",
+        "tag4": " FIBONACCI",
+        "tag5": "TECHNICAL ANALYSIS",
+        "lastimg":"/static/book.svg"
+    }
+
+]

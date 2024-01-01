@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+
+.info-container-box {
+    background-color: #252842;
+    margin-top: 50px;
+}
+
+.info-box {
+    padding: 60px 50px 100px;
+    
+}
+
+.info-heading p {
+    margin-bottom: 65px;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 500;
+    font-family: Source Sans Pro;
+    color: #fff;
+}
+
+.grid-info {
+    margin-top: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-grid-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-grid-heading {
+    padding-top: 20px;
+}
+
+.info-grid-heading p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Source Sans Pro;
+    color: #fff;
+}
+
+.info-grid-content {
+    width: 250px;
+   padding: 20px;
+   margin: auto;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Source Sans Pro;
+    color: #fff;
+}

@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+.footer-box {
+    background-color: rgb(26, 29, 48);
+}
+
+.footer-container {
+    padding: 50px 10px;
+    border-bottom: 0.5px solid hsla(0, 0%, 100%, .5);
+}
+
+.footer-join-box p{
+    font-size: 25px;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+@media (max-width: 600px) {
+    .footer-join-box p{
+        text-align: center;
+        font-size: 24px;
+        color: #fff;
+        font-weight: 500 !important;
+        font-family: Source Sans Pro;
+    }
+}
+
+.footer-icons {
+    margin-top: 20px;
+    display: flex;
+    color: #fff;
+    justify-content: right;
+}
+
+
+.telegram,
+.twitter,
+.linkedin,
+.youtube,
+.instagram,
+.facebook {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    background-color: #393d53;
+    margin-right: 20px;
+}
+
+.main-menu {
+    padding: 50px 10px;
+}
+
+.market-menu p {
+    font-size: 1.125rem !important;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+.market-menu-item {
+    margin-top: 10px;
+
+}
+
+.market-menu-item a {
+    text-decoration: none;
+}
+
+.market-menu-item a p {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+.trading-menu {
+    margin-top: 20px;
+}
+
+.trading {
+    margin-top: 50px;
+}
+
+.trading p {
+    font-size: 1.125rem !important;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+.trading-menu-item {
+    margin-top: 10px;
+}
+
+.trading-menu-item a {
+    text-decoration: none;
+}
+
+.trading-menu-item a p {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+
+.knowledge-menu p {
+    font-size: 1.125rem !important;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+.knowledge-menu-item {
+    margin-top: 10px;
+}
+
+.knowledge-menu-item a {
+    text-decoration: none;
+}
+
+.knowledge-menu-item a p {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+.platforms-menu,
+.pricing-menu {
+    margin-top: 50px;
+}
+
+.platforms p {
+    font-size: 1.125rem !important;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+.platforms-menu-item {
+    margin-top: 10px;
+}
+
+.platforms-menu-item a {
+    text-decoration: none;
+}
+
+.platforms-menu-item a p {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+.regulation-menu p {
+    font-size: 1.125rem !important;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+.regulation-menu-item {
+    margin-top: 10px;
+}
+
+.regulation-menu-item a {
+    text-decoration: none;
+}
+
+.regulation-menu-item a p {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+
+.pricing p {
+    font-size: 1.125rem !important;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+.pricing-menu-item {
+    margin-top: 10px;
+}
+
+.pricing-menu-item a {
+    text-decoration: none;
+}
+
+.pricing-menu-item a p {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+
+
+.about-menu p {
+    font-size: 1.125rem !important;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+.contact {
+    margin-top: 1rem;
+    padding-left: 20px;
+}
+
+.contact-mail a {
+    text-decoration: none;
+}
+
+.contact-mail p {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 400;
+    font-family: Source Sans Pro;
+}
+
+.location1,
+.location2 {
+    padding-left: 20px;
+    margin-top: 1rem;
+}
+
+.contact-location a {
+    text-decoration: none;
+}
+
+.contact-location p {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 400;
+    font-family: Source Sans Pro;
+}
+
+.careers-menu {
+    margin-top: 20px;
+}
+
+.career p {
+    font-size: 1.125rem !important;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}
+
+.career-menu-item {
+    margin-top: 10px;
+}
+
+.career-menu-item a {
+    text-decoration: none;
+}
+
+.career-menu-item a p {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 500 !important;
+    font-family: Source Sans Pro;
+}

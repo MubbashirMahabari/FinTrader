@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+
+.copytrade-data {
+    padding: 96px 0;
+    text-align: center;
+}
+
+.copytrade-head p {
+    font-family: Source Sans Pro;
+    color: #ff4521;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+@media (max-width: 600px) {
+
+    .copytrade-head p {
+        font-family: Source Sans Pro;
+        color: #ff4521;
+        font-size: 25PX;
+        font-weight: 500;
+
+    }
+}
+
+.copytrade-subhead {
+    padding: 24px 0;
+    margin-bottom: 0.5rem;
+}
+
+.copytrade-subhead p {
+    font-family: Source Sans Pro;
+    color: #ffffff;
+    font-size: 2.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: -0.00833em;
+}
+
+
+@media (max-width: 600px) {
+
+    .copytrade-subhead p {
+        line-height: 1.2;
+        font-family: Source Sans Pro;
+        color: #ffffff;
+        font-size: 30px;
+        font-weight: 500;
+
+    }
+}
+
+.copytrade-content1 {
+    padding: 16px 32px;
+}
+
+.copytrade-content1 p {
+    line-height: 1.2;
+    letter-spacing: 0.00735em;
+    font-family: Source Sans Pro;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.copytrade-content2 {
+    padding: 16px 32px;
+}
+
+
+@media (max-width: 600px) {
+
+    .copytrade-content2 {
+        padding: 10px 20px;
+    }
+}
+
+.copytrade-content2 p {
+    line-height: 1.2;
+    letter-spacing: 0.00735em;
+    font-family: Source Sans Pro;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+@media (max-width: 600px) {
+
+    .copytrade-content2 p {
+        line-height: 1.2;
+        letter-spacing: 0.00735em;
+        font-family: Source Sans Pro;
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: 400;
+
+    }
+}
+
+.copytrade-btn-box {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.copytrade-btn-box button {
+    background-color: #ff4521;
+    border-radius: 30px;
+    padding: 10px 18px !important;
+}
+
+.copytrade-btn-box p {
+    letter-spacing: 0.02em;
+    font-family: Source Sans Pro;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

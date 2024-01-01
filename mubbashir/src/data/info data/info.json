@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "/static/scenarios.png",
+        "heading": " Countless opportunities",
+        "content": " Make the most of market moves. Access hundreds of instruments across FX, indices, commodities and stocks."
+    },
+    {
+        "id": 2,
+        "img": "/static/bonus.png",
+        "heading": "Exceptional value",
+        "content": "Keep more of your returns. Trade your favourite assets with super-tight spreads, low commissions and pinpoint execution."
+    },
+    {
+        "id": 3,
+        "img": "/static/invest.png",
+        "heading": "First-class education",
+        "content": "Knowledge is power. Pick up the skills you need to succeed with our free online resources."
+    },
+    {
+        "id": 4,
+        "img": "/static/rules.png",
+        "heading": "Total fund security",
+        "content": "Trade with peace of mind. As a globally regulated and licensed broker, we keep your funds fully segregated and secure."
+    }
+]

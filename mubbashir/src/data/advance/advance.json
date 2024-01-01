@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "img": "/static/trailing-stop.svg",
+        "head": "What is a Trailing Stop?",
+        "content": "Another popular tool that traders use is the Trailing Stop. Trailing Stop is placed on an open position, at a specified distance from the current price of the financial instrument in question. The dis..."
+    },
+    {
+        "id": 2,
+        "img": "/static/sell-stop.svg",
+        "head": "What Is Sell Stop Limit Video",
+        "content": "Now that we know what Buy Stop Limit is, it’s only natural to talk about its selling counterpart. The pending order called “Sell Stop Limit” combines Sell Stop and Sell Limit orders, and is currently ..."
+    },
+    {
+        "id": 3,
+        "img": "/static/trend.svg",
+        "head": "What is a Trend Reversal?",
+        "content": "A trend reversal marks the end of an existing trend and the beginning of a new one. A reversal may happen in any timeframe and can mean the difference between a big win, a break-even, or a loss. Being..."
+    },
+    {
+        "id": 4,
+        "img": "/static/swap.svg",
+        "head": "Getting started with Bullish Candlesticks",
+        "content": "Uncover more information about stock markets by learning how to see bullish candlestick patterns, and put them to work within your technical analysis."
+    },
+    {
+        "id": 5,
+        "img": "/static/trend.svg",
+        "head": " What is Forex Trading and How Does It Work?",
+        "content": "Take your first steps into FX trading with our comprehensive beginners guide for Forex! not sure where to start? You’re in the right place."
+    },
+    {
+        "id": 6,
+        "img": "/static/swap.svg",
+        "head": "Getting started with Bullish Candlesticks",
+        "content": "Uncover more information about stock markets by learning how to see bullish candlestick patterns, and put them to work within your technical analysis."
+    }
+
+]

@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+.straight-container-box {
+    padding-top: 50px;
+}
+
+@media (max-width: 600px) {
+    .straight-container-box {
+        padding: 0;
+    }
+}
+
+.straight-img-box {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 600px) {
+    .straight-img-box {
+        margin-top: 0;
+    }
+}
+
+.straight-data {
+    padding: 13% 5%;
+}
+
+@media (max-width: 600px) {
+    .straight-data {
+        text-align: center;
+        padding: 8% 10%;
+    }
+}
+
+
+.straight-btn {
+    display: flex;
+   
+}
+@media (max-width: 600px) {
+    .straight-btn {
+        padding-bottom: 0px;
+    }
+}
+
+
+@media (max-width: 1100px) {
+    .straight-btn {
+        padding-top: 55px;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+.straight-btn button {
+    padding-top: 145px;
+}
+
+@media (max-width: 600px) {
+    .straight-btn button {
+        padding-top: 12px;
+    }
+}
+
+.straight-heading{
+    width: 80%;
+}
+.straight-heading p {
+    line-height: 1.25;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: Source Sans Pro;
+    color: #ffffff;
+}
+
+@media (max-width: 600px) {
+    .straight-heading p {
+        letter-spacing: 0.00735em;
+        line-height: 1.2;
+        font-size: 24px;
+        font-weight: 500;
+        font-family: Source Sans Pro;
+        color: #ffffff;
+    }
+}
+
+.straight-content {
+    margin-top: 1rem;
+}
+
+.straight-content p {
+    letter-spacing: 0.00735em;
+    line-height: 1.2;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Source Sans Pro;
+    color: #ffffff;
+}

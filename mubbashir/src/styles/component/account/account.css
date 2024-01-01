@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+.account-box {
+    padding: 60px 200px 100px;
+
+}
+.account-container-head{
+    margin-bottom: 65px;
+}
+.account-container-head p {
+    text-align: center;
+    font-size: 34px;
+    font-weight: 500;
+    font-family: Source Sans Pro;
+    color: black;
+}
+
+.account-data,
+.account-head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

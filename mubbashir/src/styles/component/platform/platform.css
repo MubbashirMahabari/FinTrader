@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+
+.platform-data {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.platform-head p {
+    letter-spacing: 0.00735em;
+    font-size: 2.125rem;
+    font-weight: 500;
+    font-family: Source Sans Pro;
+    color: #000000;
+    margin-bottom: 8px;
+}
+
+@media (max-width: 600px) {
+    .platform-head p {
+        letter-spacing: 0.00735em;
+        font-size: 22px;
+        font-weight: 500;
+        font-family: Source Sans Pro;
+        color: #000000;
+    }
+}
+
+.platform-content {
+    margin-top: 15px;
+    text-align: center;
+    margin: auto auto 0;
+    width: 80%;
+    color: #000000;
+    
+}
+
+.platform-content p {
+    letter-spacing: 0.00735em;
+    line-height: 1.2;
+    margin-bottom: 2rem;
+    font-size: 1rem;
+    font-family: Roboto;
+
+}
+
+.platform-img {
+    margin-top: 15px;
+}
+
+@media (max-width: 600px) {
+    .platform-img img {
+        width: 100%;
+        height: 100%;
+    }
+}

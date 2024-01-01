@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+
+.demo-box {
+    background-color: #252842;
+    padding: 50px 0 0;
+}
+@media (max-width: 600px) {
+    .demo-box {
+        padding: 0;
+    }
+}
+.demo-img-box {
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 600px) {
+    .demo-img-box img {
+        margin-top: 20px;
+        text-align: center;
+        width: 350px;
+        height: auto;
+    }
+}
+
+.demo-data {
+    padding: 13% 5%;
+}
+
+@media (max-width: 600px) {
+    .demo-data {
+        text-align: center;
+        padding: 0px;
+        margin-top: 40px;
+
+    }
+}
+
+
+
+
+.demo-heading p {
+    font-family: Source Sans Pro;
+    font-size: 25px;
+    font-weight: 600;
+    color: #ff4521;
+}
+
+
+
+
+.demo-subhead {
+    width: 80%;
+}
+
+@media (max-width: 600px) {
+    .demo-subhead {
+        width: 100%;
+    }
+}
+
+
+
+.demo-subhead p {
+    line-height: 1.2;
+    font-family: Source Sans Pro;
+    font-size: 40px;
+    font-weight: 400;
+    color: #fff;
+}
+
+@media (max-width: 600px) {
+    .demo-subhead p {
+        text-align: center;
+        font-family: Source Sans Pro;
+        font-size: 1.5rem;
+    }
+}
+
+.demo-content {
+   
+    margin-top: 0.5rem;
+   
+   
+}
+
+.demo-content p {
+    padding: 0 0 20px;
+    margin-bottom: 16px;
+    line-height: 1.25;
+    font-family: Source Sans Pro;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #fff;
+}
+
+@media (max-width: 600px) {
+    .demo-content {
+        padding: 0 50px;
+        margin-bottom: 1rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .demo-content p {
+        text-align: center;
+        font-family: Source Sans Pro;
+        font-size: 1rem;
+    }
+}
+
+
+.demo-btn {
+  
+    display: flex;
+    gap: 30px;
+}
+
+@media (max-width: 600px) {
+    .demo-btn {
+        margin-top: 20px;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+.demo-open-btn button {
+    background-color: #ff4521;
+    border-radius: 32px;
+    text-align: center;
+    padding: 10px 18px;
+}
+
+@media (max-width: 600px) {
+    .demo-open-btn button {
+        padding: 12px 60px !important;
+
+    }
+}
+
+.demo-open-btn button p {
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.fxtm-btn button {
+    background-color: #fff;
+    border-radius: 32px;
+    text-align: center;
+    padding: 10px 18px;
+}
+
+@media (max-width: 600px) {
+    .fxtm-btn button {
+        padding: 12px 60px;
+
+    }
+}
+
+.fxtm-btn button p {
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 700;
+    color: #ff4521;
+}

@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+.advantage-box {
+    background-color: #252842;
+    padding: 80px 0;
+}
+
+.advantage-data {
+    display: flex;
+}
+@media (max-width: 600px) {
+    .advantage-data{
+       padding: 40px;
+    }
+}
+
+@media (max-width: 600px) {
+    .advantage-data {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+.advantage-img {
+    padding-top: 20px;
+    margin-right: 20px;
+}
+
+@media (max-width: 600px) {
+    .advantage-img {
+        text-align: center;
+    }
+}
+
+.advantage-heading p {
+    font-size: 40px;
+    color: #fff;
+    font-weight: 500;
+    font-family: Source Sans Pro;
+}
+
+@media (max-width: 600px) {
+    .advantage-heading p{
+        text-align: center;
+        font-size: 30px;
+    }
+}
+
+
+
+
+.advantage-content p {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 500;
+    font-family: Source Sans Pro;
+}
+
+@media (max-width: 600px) {
+    .advantage-content {
+        margin-top: 20px;
+        text-align: center;
+    }
+}
+
+.advantage-compare-btn button {
+    background: transparent;
+    padding: 10px 18px;
+}
+
+.advantage-compare-btn button p {
+    font-size: 0.875rem;
+    color: #fff;
+    font-weight: 700;
+    font-family: Source Sans Pro;
+}
+
+.advantage-compare-btn p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.advantage-open-btn button {
+    border-radius: 32px;
+    background-color: #ff4521;
+    padding: 10px 18px;
+}
+
+.advantage-open-btn button p {
+    font-size: 0.875rem;
+    color: #fff;
+    font-weight: 700;
+    font-family: Source Sans Pro;
+}
+
+.advantage-open-btn p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.advantage-btn-box {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 600px) {
+    .advantage-btn-box {
+        padding-top: 30px;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}

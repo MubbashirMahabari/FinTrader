@@ -1,0 +1,45 @@
+.info-carousel-box {
+    background-color: #252842;
+    margin-top: 50px;
+    padding: 50px 0;
+}
+
+.info-carousel-title p {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 500;
+    font-family: Source Sans Pro;
+    color: #fff;
+}
+
+.info-carousel-img {
+display: flex;
+justify-content: center;
+}
+
+.info-carousel-heading {
+    padding-top: 20px;
+}
+
+.info-carousel-heading p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Source Sans Pro;
+    color: #fff;
+}
+
+.info-carousel-content {
+    padding: 0px 30px 0px 30px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Source Sans Pro;
+    color: #fff;
+}
+
+.info-map-box {
+    padding: 50px 0;
+    text-align: center;
+}

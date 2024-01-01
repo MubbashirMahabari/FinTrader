@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+
+
+.expert-container-box {
+
+    padding: 80px 0;
+}
+
+
+
+@media (max-width: 600px) {
+    .expert-container-box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 40px;
+    }
+}
+
+@media (max-width: 600px) {
+    .expert-heading-box {
+        text-align: center;
+
+    }
+}
+
+
+@media (max-width: 600px) {
+    .expert-grid-container {
+     
+        /* flex-direction: column; */
+       
+        gap: 1px;
+    }
+}
+
+.expert-heading p {
+    font-family: Source Sans Pro;
+    color: #ff4521;
+    font-size: 20px;
+}
+
+@media (max-width: 600px) {
+    .expert-heading p {
+        text-align: center;
+        font-family: Source Sans Pro;
+        color: #ff4521;
+        font-size: 25px;
+    }
+}
+
+.already-box,
+.expert-content {
+    margin-top: 0.5rem;
+}
+
+.already-box p {
+    font-family: Source Sans Pro;
+    color: #fff;
+    font-size: 40px;
+}
+
+@media (max-width: 600px) {
+    .already-box p {
+        text-align: center;
+        font-family: Source Sans Pro;
+        color: #fff;
+        font-size: 30px;
+    }
+}
+
+.expert-content p {
+    font-family: Source Sans Pro;
+    color: #fff;
+    font-size: 16px;
+}
+
+@media (max-width: 600px) {
+    .expert-content p {
+        text-align: center;
+        font-family: Source Sans Pro;
+        color: #fff;
+        font-size: 18px;
+        margin-bottom: 35px;
+    }
+}
+
+.expert-btn-box {
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.expert-btn-box button {
+    background-color: #ff4521;
+    border-radius: 30px;
+    padding: 10px 18px !important;
+}
+
+.expert-btn-box button p {
+    letter-spacing: 0.02875em;
+    line-height: 1.75;
+    font-family: Source Sans Pro;
+    color: #fff;
+    font-size: 0.875rem;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "bigbackground": "/static/banner-note.webp",
+        "heading": " Limit your costs, maximise your potential.",
+        "content": "Trade FX majors with spreads from 0 on our Advantage account. Enjoy commission-free trading with our Micro account.",
+        "warning": "Trading is Risky"
+    },
+    {
+        "id": 2,
+        "bigbackground": "/static/man-note.webp",
+        "heading": "Release your inner trader",
+        "content": "Learn to trade at your own pace with our free educational resources.",
+        "warning": "Trading is Risky"
+    }
+
+]

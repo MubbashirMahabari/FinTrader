@@ -1,0 +1,27 @@
+import '@/styles/globals.css'
+import '@/styles/component/navbar/navbar.css'
+import '@/styles/component/hero/hero.css'
+import '@/styles/component/herocarousel/herocarousel.css'
+import '@/styles/component/shovan/shovan.css'
+import '@/styles/component/info/info.css'
+import '@/styles/component/infocarousel/infocarousel.css'
+import '@/styles/component/expert/expert.css'
+import '@/styles/component/forex/forex.css'
+import '@/styles/component/demo/demo.css'
+import '@/styles/component/account/account.css'
+import '@/styles/component/accountcarousel/accountcarousel.css'
+import '@/styles/component/hints/hints.css'
+import '@/styles/component/straight/straight.css'
+import '@/styles/component/platform/platform.css'
+import '@/styles/component/copytrading/copytrading.css'
+import '@/styles/component/tradingbasic/tradingbasic.css'
+import '@/styles/component/advance/advance.css'
+import '@/styles/component/advantage/advantage.css'
+import '@/styles/component/latest/latest.css'
+import '@/styles/component/latestcarousel/latestcarousel.css'
+import '@/styles/component/awards/awards.css'
+import '@/styles/component/footer/footer.css'
+
+export default function App({ Component, pageProps }) {
+  return <Component {...pageProps} />
+}

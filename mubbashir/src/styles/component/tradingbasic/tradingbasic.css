@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+
+.tradebasic-box {
+    padding: 60px 0;
+    background-color: rgb(248, 248, 248)
+}
+
+.tradebasic-head,
+.tradebasic-link {
+    text-align: center;
+}
+
+.tradebasic-head p {
+    font-family: Source Sans Pro;
+    color: #ff4521;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.tradebasic-link {
+    margin-top: 0.5rem;
+}
+
+.tradebasic-link a {
+
+    text-decoration: none;
+    color: #4cb1ff;
+}
+
+.tradebasic-link a p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.tradebasic-data {
+    margin-top: 57px;
+    padding: 0 80px;
+
+}
+
+@media (max-width: 600px) {
+    .tradebasic-data {
+        padding: 0 15px;
+    }
+}
+
+.tradebasic-card-box {
+    padding: 0 80px;
+}
+
+
+
+.card-heading-box {
+    margin-top: 20px;
+}
+
+.card-heading-box p {
+    font-size: 1.25rem;
+    font-weight: 600;
+    font-family: Source Sans Pro;
+    color: #1a1d30;
+}
+
+.card-content-box {
+    margin-top: 20px;
+}
+
+.card-content-box p {
+    letter-spacing: 0.00735em;
+    line-height: 1.2em;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Roboto;
+    color: #1a1d30;
+}
+
+.card-link-box {
+    margin-top: 30px;
+}
+
+.card-link-box a {
+    font-family: Source Sans Pro;
+    text-decoration: none;
+    color: #4cb1ff;
+}
+
+.card-link-box a p {
+    display: flex;
+    align-items: center;
+}

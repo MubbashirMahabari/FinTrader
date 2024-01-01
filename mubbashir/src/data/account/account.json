@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "img": "/static/step1.svg",
+        "head": "Create a MyFXTM profile"
+    },
+    {
+        "id": 2,
+        "img": "/static/step2.svg",
+        "head": "Choose Demo account"
+    },
+    {
+        "id": 3,
+        "img": "/static/step3.svg",
+        "head": "Log into your trading platform"
+    },
+    {
+        "id": 4,
+        "img": "/static/step4.svg",
+        "head": "Start trading, risk-free!"
+    }
+]

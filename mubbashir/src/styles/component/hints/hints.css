@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+.hintcarousel-box {
+    margin-top: 30px;
+    padding: 60px 200px 100px;
+    background-color: #1A1D30;
+}
+
+@media (max-width: 600px) {
+    .hintcarousel-box {
+        padding: 0px;
+    }
+}
+@media (max-width: 600px) {
+    .hintcarousel-container {
+        padding: 60px 0px;
+    }
+}
+
+.hintcarousel-container-head {
+    padding: 40px 0 0;
+    
+}
+
+.hintcarousel-container-head p{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 500;
+    font-family: Source Sans Pro;
+    color: #ff4521;
+}
+
+@media (max-width: 600px) {
+
+    .hintcarousel-container-head p {
+      
+        text-align: center;
+        font-size: 30px;
+        font-weight: 500;
+        font-family: Source Sans Pro;
+        color: #ff4521;
+    }
+}
+
+
+
+.hintcarousel-data,
+.hintcarousel-head,
+.hintcarousel-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.hintcarousel-head{
+    text-align: center;
+    margin: 24px auto 36px;
+    width: 57%;
+    padding: 56px 0 0;
+}
+@media (max-width: 600px) {
+    .hintcarousel-head {
+        line-height: 1.25;
+        width: 77%;
+        text-align: center;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+.hintcarousel-head p{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+    font-family: Source Sans Pro;
+    color: #ffffff;
+}
+
+@media (max-width: 600px) {
+    .hintcarousel-head p {
+        text-align: center;
+        font-size: 16px;
+        font-weight: 500;
+        font-family: Source Sans Pro;
+        color: #ffffff;
+    }
+}
+
+.hintcarousel-poet p{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: Source Sans Pro;
+    color: #ffffff;
+ 
+}
